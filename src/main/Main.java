@@ -12,13 +12,14 @@ public class Main {
         Scanner userInput = new Scanner(System.in);
         System.out.println("Please enter term (enter 0 to start studying): ");
         String term = userInput.nextLine();
-        while (term !=""){
+        while (term !="") {
             System.out.println("Please enter the definition for " + term);
             String definition = userInput.nextLine();
             flashcardPile.add(new FlashCards(term, definition));
-            System.out.println("Please enter term (enter 0 to start studying): ");
+            System.out.println("Please enter term (enter 0 to save or enter to start studying): ");
             term = userInput.nextLine();
         }
+        inputReader.inputFunction(flashcardPile);
         System.out.println("**************** Study Time ****************");
         while (userInput.nextLine() == ""){
             int limit = flashcardPile.size();
