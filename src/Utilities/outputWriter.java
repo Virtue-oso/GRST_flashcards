@@ -2,10 +2,7 @@ package Utilities;
 
 import main.FlashCards;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
 public class outputWriter {
@@ -21,12 +18,13 @@ public class outputWriter {
         }
         if(outputFile.exists()&& outputFile.canWrite()){
             try{
-                FileWriter file_Writer = new FileWriter(outputFile, false);
+                FileWriter file_Writer = new FileWriter(outputFile, true);
                 BufferedWriter buffered_writer = new BufferedWriter(file_Writer);
-
+                FileReader file_reader= new FileReader(outputFile);
+                BufferedReader buffered_reader = new BufferedReader(file_reader);
                 for(int i =0; i< flashcardPile.size();i++){
-                    buffered_writer.write("\""+flashcardPile.get(i).getTerm()+"\"" +","+"\""+flashcardPile.get(i).flip()
-                            +"\"\n");
+                    buffered_writer.write(flashcardPile.get(i).getTerm()+"\"" +","+"\""+flashcardPile.get(i).flip()
+                            +"\""+ flashcardPile.get(i).getModule()+"\n");
                 }
                 buffered_writer.flush();
                 buffered_writer.close();

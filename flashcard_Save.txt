@@ -1,0 +1,19 @@
+ambi-, ambo-,","both","1
+apo-","away from","1
+contra-","opposite, against","1
+ecto-","outside, outer","1
+endo-","inside, inner","1
+inter-","between","1
+intra-","within","1
+meso-","middle","1
+sub-","below, underneath","1
+super-","upper, above, beyond","1
+trans-","across, through","1
+-ad","toward","1
+-an","pertaining to","1
+-al","pertaining to","1
+-ary","pertaining to","1
+-ial","pertaining to","1
+-ic","pertaining to","1
+-ion","action, condition, act of","1
+-ior","pertaining to","1
