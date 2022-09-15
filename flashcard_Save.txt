@@ -17,3 +17,70 @@ trans-","across, through","1
 -ic","pertaining to","1
 -ion","action, condition, act of","1
 -ior","pertaining to","1
+-ous","pertaining to, like, full of, having","1
+-tic","pertaining to","1
+-verse","to turn, to travel, turned","1
+Ventr-","front, abdomen,belly","1
+Dors-","back","1
+Anter-","front, before","1
+poster-","back behind","1
+front-","front, forehead","1
+later-","side","1
+medi-","middle, midline","1
+mes-","middle, midline","1
+centr-","center, mid-point","1
+dextr-","right, right-handed","1
+sinistr-","left, left-handed","1
+laev-","left, left-handed","1
+lev-","left, left-handed","1
+super-","above","1
+infer-","below","1
+cephal-","head","1
+caud-","tail (in humans, the tailbone, or coccyx)","1
+proxim-","near to, near a point of attachment, near the beginning of a structure","1
+dist- ","away from , away from a point of attachment, away from the beginning of a structure","1
+intern-","inside","1
+extern-","outside","1
+faci-","face, surface","1
+fici-","face, surface","1
+pariet-","wall(usually of a body cavity)","1
+ax-","axis, central line","1
+vers-","travel, turn","1
+vert-","travel turn","1
+coron-","crown, like a crown","1
+sagitt-","arrow","1
+morph-","form, shape","1
+derm-","skin, layer","1
+dermat-","skin, layer","1
+som-","body","1
+somat-","body","1
+corp-","body","1
+corpor-","body","1
+corpus-","body","1
+a-","without, not, non","2
+anti-","against, opposite","2
+circum-","around","2
+de-","down, downward, awayfrom, from, without, out of","2
+dys-","bad, painful, difficult, abnormal","2
+en-","in, inward","2
+epi-","upon, on the surface","2
+eu-","good, well, normal","2
+hyper","over, above, more than normal","2
+hypo-","below, deficient, less than normal","2
+peri-","around, near","2
+-al, -eal, -ial","pertaining, to","2
+-alis, aris","pertainint to","2
+-ar","pertaining to, having the character of","2
+-ate","pertaining to, having, having the shape of, to...","2
+etic-","pertaining to","2
+-ety","condition, state, quality","2
+-ia","condition of, quality of, state of, act of","2
+-ile","pertaining to, able to","2
+-ity","condition, state, quality","2
+-ive","pertaining to, tending to","2
+-oid","resembling, shaped, like, shaped like","2
+-orium","place for","2
+-osis","process of, condition of, abnormal condition of","2
+-sia,-sis","process of, condition of, act of","2
+-ure","result of, act of","2
+-y","condition of, quality of, stae of,act of","2

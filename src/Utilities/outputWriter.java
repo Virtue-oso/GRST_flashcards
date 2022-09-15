@@ -20,11 +20,37 @@ public class outputWriter {
             try{
                 FileWriter file_Writer = new FileWriter(outputFile, true);
                 BufferedWriter buffered_writer = new BufferedWriter(file_Writer);
-                FileReader file_reader= new FileReader(outputFile);
-                BufferedReader buffered_reader = new BufferedReader(file_reader);
                 for(int i =0; i< flashcardPile.size();i++){
-                    buffered_writer.write(flashcardPile.get(i).getTerm()+"\"" +","+"\""+flashcardPile.get(i).flip()
-                            +"\""+ flashcardPile.get(i).getModule()+"\n");
+                    buffered_writer.write(flashcardPile.get(i).getTerm()+"\",\""+flashcardPile.get(i).flip()
+                            +"\",\""+ flashcardPile.get(i).getModule()+"\n");
+                }
+                buffered_writer.flush();
+                buffered_writer.close();
+            }
+            catch (IOException e){
+                System.out.println(e);
+            }
+        }
+    }
+    public static void outputFunctionNew(ArrayList<ArrayList<FlashCards>> flashcardPile){
+        File outputFile = new File("flashcard_Save.txt");
+
+        if(!outputFile.exists()){
+            try{
+                outputFile.createNewFile();
+            } catch (IOException e){
+                System.out.println(e);
+            }
+        }
+        if(outputFile.exists()&& outputFile.canWrite()){
+            try{
+                FileWriter file_Writer = new FileWriter(outputFile, true);
+                BufferedWriter buffered_writer = new BufferedWriter(file_Writer);
+                for (int j = 0;j<flashcardPile.size();j++) {
+                    for (int i = 0; i < flashcardPile.get(j).size(); i++) {
+                        buffered_writer.write(flashcardPile.get(j).get(i).getTerm() + "\",\"" + flashcardPile.get(j)
+                                .get(i).flip()+ "\",\"" + flashcardPile.get(j).get(i).getModule() + "\n");
+                    }
                 }
                 buffered_writer.flush();
                 buffered_writer.close();
