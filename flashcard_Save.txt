@@ -72,7 +72,7 @@ peri-","around, near","2
 -alis, aris","pertainint to","2
 -ar","pertaining to, having the character of","2
 -ate","pertaining to, having, having the shape of, to...","2
-etic-","pertaining to","2
+-etic-","pertaining to","2
 -ety","condition, state, quality","2
 -ia","condition of, quality of, state of, act of","2
 -ile","pertaining to, able to","2
@@ -84,3 +84,127 @@ etic-","pertaining to","2
 -sia,-sis","process of, condition of, act of","2
 -ure","result of, act of","2
 -y","condition of, quality of, stae of,act of","2
+crani-","cranium (skull (without jawbone))","2
+tempor-","temple (side of head behind above)","2
+occipit-","occiput (back of head)","2
+sphen-","wedge","2
+pter-","wing","2
+pteryg-","wing","2
+ethm-","sieve","2
+zygomat-","yoke","2
+squam-","scale","2
+lambd-","greek letter for lambda","2
+cav-","hollow space","2
+cerebr-","cerebrum (largest part of brain)","2
+cerebell-","cerebellum (posterior brain)","2
+encephal-","brain","2
+lob-","lobe","2
+fiss-","split, splitting","2
+thalam-","chamber, thalamus","2
+mening-","membrane, meninges","2
+arachn-","spider, spider's web","2
+limb-","border, edge","2
+gyr-","circle, coil","2
+sulc-","groove, furrow","2
+cingul-","girdle, belt, structure that surrounds","2
+amygdal-","almond","2
+pituit-","mucus, phlegm, discharge","2
+ment-","mind, reason, chin","2
+psych-","mind","2
+thym-","emotion, mind","2
+phren-","mind, diaphragm","2
+schis-, schist-, schiz-","split, division","2
+man-","frenzy, hand, thin, loose","2
+press-","to press, pressing","2
+phor-","to bear/carry, bearing","2
+phob-","fear","2
+phil-","loving, afinity to, craving for","2
+anxi-","worry","2
+mne-","to remember","2
+-mania","condition of madness, compulsion, obsession","2
+-mnesia","condition of memory, memory","2
+-philia","condition of attraction, attraction, abnormal attraction","2
+-phobia","condition of fear, abnormal fear of","2
+andr-","man, male","2
+gync-, gynaec-, gynec-","woman, female","2
+necr-","death, dead","2
+xen-","foreign","2
+pseud-","false","2
+crypt-","hidden","2
+amphi- ampho-","both, on both sides","3
+an-","without, not, non","3
+dia-","through, apart, in a line","3
+extra-, extro-","outside of, beyond","3
+in-","in, into, over","3
+meta-","after, change, transition","3
+non-","not","3
+ob-","toward, infront of, against","3
+par-","beside, beyond, abnormal","3
+per-","through","3
+poly-","many, much","3
+re-","again and again, backward","3
+semi-","half, partly","3
+syn-","together, with, concurrent","3
+-aceous","pt, beloning to, having","3
+-atic","pt","3
+-ation","process","3
+-atory","pt","3
+-cle","small","3
+-cyte","cell","3
+-escent","beginning to be, becoming","3
+-esis","condition, abnormal condition, process","3
+-gen","that which produces","3
+-in","substance","3
+-ment","action of, product of","3
+-oma","tumor, mass","3
+-ose","full of, having quality of","3
+-ula","small","3
+-um","structure, substance","3
+cut-, cutane-","skin","3
+tect-, teg-","to cover","3
+sarc-","flesh, soft tissue","3
+thel-","nipple, cellular layer, tissue","3
+cyt-","cell","3
+hist-, histi-","tissue","3
+kerat-","horn, horny tissue, cornea(of eye)","3
+melan-","black","3
+coll-","glue","3
+elast-","flecible, stretchy","3
+sud-, sudor-","sweat","3
+fer-","to bear/carry/produce","3
+hidr-","sweat","3
+spir-","to breathe","3
+lip-","fat","3
+adip-","fat","3
+stear-,steat-","fat","3
+trich-","hair","3
+pil-","hair","3
+medull-","innermost part, medulla","3
+cort-,cortic-","outer layer, cortex","3
+foll-","sac, container","3
+seb-","grease, tallow","3
+ungu-","nail","3
+onych-","nail","3
+lun-","moon, moon shaped","3
+chro-, chrom-,chromat-","color","3
+nigr-","black","3
+alb-, albid-","white","3
+leuc-, leuk-","white","3
+can-","white, grey","3
+cand-","white, glowing white","3
+poli-","gray","3
+erythr-","red","3
+rub-,rubr-","red","3
+rose-","rosy-red, pink","3
+rhod-","rosy-red","3
+purpur-","purple","3
+prphyr-","purple","3
+porphyr-","purple","3
+fusc-","brown, dark","3
+cirrh-","yellow, tawny","3
+flav-","golden yellow, reddish yellow","3
+lute-","yellow","3
+xanth-","yellow","3
+chlor-","green","3
+glauc-","bluish-gray, silvery-gray","3
+cyan-","blue","3

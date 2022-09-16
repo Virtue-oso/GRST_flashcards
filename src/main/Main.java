@@ -65,7 +65,8 @@ public class Main {
                     String correctAns = userInput.nextLine();
                     if (correctAns.equals("y")) {
                         flashcardPile.get(flashNumber).rightAnswer();
-                        System.out.println(flashcardPile.get(flashNumber).getMemorized());
+                        System.out.println("you got this flashcard right, "+flashcardPile.get(flashNumber).getMemorized()
+                        +" times! ");
                     }
                 }
             }
