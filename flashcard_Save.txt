@@ -69,7 +69,7 @@ hyper","over, above, more than normal","2
 hypo-","below, deficient, less than normal","2
 peri-","around, near","2
 -al, -eal, -ial","pertaining, to","2
--alis, aris","pertainint to","2
+-alis, aris","pertaining to","2
 -ar","pertaining to, having the character of","2
 -ate","pertaining to, having, having the shape of, to...","2
 -etic-","pertaining to","2
@@ -208,3 +208,30 @@ xanth-","yellow","3
 chlor-","green","3
 glauc-","bluish-gray, silvery-gray","3
 cyan-","blue","3
+ante-","before, in front of","4
+cata-, cat-","down, complete","4
+con-","together, with","4
+ec-,ex","out, outside","4
+eiso-, eso-","inward","4
+ento-, ent-","inside, within","4
+hemi-","half","4
+infra-","below","4
+multi-","many, much","4
+post-","behind, after","4
+pros-","toward","4
+supra-","above","4
+-duct","duct, channel, tube","4
+-ema","condition","4
+-esce","to begin, to become","4
+-form","having the form of, like","4
+-gram","record","4
+-graph","instrument used to reccord","4
+-iasis","state of, proccess of, abormal condition","4
+-iatic","pertaining to a state, pertaining to a process","4
+-ible, -ibil-","able to be","4
+-ical","pt","4
+-itis","inflammation","4
+-ize","to make, to affect","4
+-meter","instrument used to measure","4
+-scope","instrument used to examine","4
+-ual","pt","4
