@@ -2,6 +2,7 @@ package main;
 
 import java.awt.*;
 import java.io.File;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Random;
@@ -11,11 +12,13 @@ import Utilities.*;
 public class Main {
     public static void main(String[] args){
         ArrayList<FlashCards> flashcardPile = new ArrayList<>();
+//        ArrayList<FlashCards[]> flashcardPilesRevamp = new ArrayList<FlashCards>[]();
         ArrayList<ArrayList<FlashCards>> flashPiles = new ArrayList<ArrayList<FlashCards>>();
         Scanner userInput = new Scanner(System.in);
         if (args.length == 1) {
             File inputFile = new File(args[0]);
             flashPiles = inputReader.readInputNew(inputFile);
+//            flashcardPilesRevamp = inputReader.readInput(inputFile);
         } else if (args.length > 1){
             System.out.println("Error! Too many arguments inputted. Continuing to main program without data import.");
         }
@@ -44,6 +47,14 @@ public class Main {
         System.out.println("**************** Study Time ****************\n what module do you want to study?: ");
         String moduleAdd = userInput.nextLine();
         while (moduleAdd != ""){
+//            System.out.println("Enter:\n  1: to study just prefixes\n  2: to study just bases\n  3: to study suffixes" + TODO add module parts
+//                    "\n or press enter to study the whole module");
+//            String modulePart = userInput.nextLine();
+//            if(modulePart != ""){
+//                int partIndex =Integer.parseInt(modulePart)-1;
+//                flashcardPile.addAll(flashcardPilesRevamp.get(Integer.parseInt(moduleAdd)-1)[]);
+//            }
+
             flashcardPile.addAll(flashPiles.get(Integer.parseInt(moduleAdd)-1));
             System.out.println("Anymore modules? (press enter to start studying)");
             moduleAdd = userInput.nextLine();

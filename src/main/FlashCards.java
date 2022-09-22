@@ -5,11 +5,31 @@ public class FlashCards {
     private String definition;
     private Integer memorized;
     private Integer module;
+    public TermPart type;
+    public enum TermPart{
+        BASE,
+        SUFFIX,
+        PREFIX
+    }
+
     public FlashCards(String term, String definition, Integer module){
         this.term = term;
         this.definition = definition;
         this.memorized =0;
         this.module = module;
+        if(term.charAt(0)=='-'){
+            type = TermPart.SUFFIX;
+        }
+        if(Character.isUpperCase(term.charAt(0))){
+            type = TermPart.BASE;
+        }
+        else{
+            type = TermPart.PREFIX;
+        }
+    }
+
+    public TermPart getType(){
+        return this.type;
     }
 
     public String getTerm(){
@@ -36,6 +56,6 @@ public class FlashCards {
 
     @Override
     public String toString(){
-        return "module" + module + "\n"+term + "\n Definition: " + "   " + definition;
+        return "module" + module + "Part: " + type + "\n"+term + "\n Definition: " + "   " + definition;
     }
 }

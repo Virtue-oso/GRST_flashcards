@@ -23,40 +23,33 @@ trans-","across, through","1
 Ventr-","front, abdomen,belly","1
 Dors-","back","1
 Anter-","front, before","1
-poster-","back behind","1
-front-","front, forehead","1
-later-","side","1
-medi-","middle, midline","1
-mes-","middle, midline","1
-centr-","center, mid-point","1
-dextr-","right, right-handed","1
-sinistr-","left, left-handed","1
-laev-","left, left-handed","1
-lev-","left, left-handed","1
-super-","above","1
-infer-","below","1
-cephal-","head","1
-caud-","tail (in humans, the tailbone, or coccyx)","1
-proxim-","near to, near a point of attachment, near the beginning of a structure","1
-dist- ","away from , away from a point of attachment, away from the beginning of a structure","1
-intern-","inside","1
-extern-","outside","1
-faci-","face, surface","1
-fici-","face, surface","1
-pariet-","wall(usually of a body cavity)","1
-ax-","axis, central line","1
-vers-","travel, turn","1
-vert-","travel turn","1
-coron-","crown, like a crown","1
-sagitt-","arrow","1
-morph-","form, shape","1
-derm-","skin, layer","1
-dermat-","skin, layer","1
-som-","body","1
-somat-","body","1
-corp-","body","1
-corpor-","body","1
-corpus-","body","1
+Poster-","back behind","1
+Front-","front, forehead","1
+Later-","side","1
+Medi-","middle, midline","1
+Mes-","middle, midline","1
+Centr-","center, mid-point","1
+Dextr-","right, right-handed","1
+Sinistr-","left, left-handed","1
+Laev-, Lev-","left, left-handed","1
+Super-","above","1
+Infer-","below","1
+Cephal-","head","1
+Caud-","tail (in humans, the tailbone, or coccyx)","1
+Proxim-","near to, near a point of attachment, near the beginning of a structure","1
+Dist- ","away from , away from a point of attachment, away from the beginning of a structure","1
+Intern-","inside","1
+Extern-","outside","1
+Faci-, Fici-","face, surface","1
+Pariet-","wall(usually of a body cavity)","1
+Ax-","axis, central line","1
+Vers-, Vert-","travel, turn","1
+Coron-","crown, like a crown","1
+Sagitt-","arrow","1
+Morph-","form, shape","1
+Derm-, Dermat-","skin, layer","1
+Som-, Somat-","body","1
+Corp-, corpor-, corpus-","body","1
 a-","without, not, non","2
 anti-","against, opposite","2
 circum-","around","2
@@ -235,3 +228,43 @@ supra-","above","4
 -meter","instrument used to measure","4
 -scope","instrument used to examine","4
 -ual","pt","4
+phot-","light","4
+scot-","darkness","4
+blep-, bleps-","to see, sight","4
+vid-, vis-","to see, sight","4
+op-,ops-,opt-","eye, sight","4
+ocul-","eye, sight","4
+ophthalm-","eye, sight","4
+orbit-","wheel track, circle, ring, orbit(of the eye)","4
+blephar-","eyelid","4
+palpebr-","eyelid","4
+gen-,genit-","to produce/beget","4
+cili-","eyelid, eyelash, hair-like structures","4
+junct-","to join","4
+conjunctiv-","conjunvtiva (membrane of the eye)","4
+scler-","hard, firm, thick, scler(the white of the eye)","4
+corn-, corne-","horn cornea(of the eye)","4
+chor-, chori-","chorion, choroid, membrane","4
+troch-, trochle-","wheel, round shaped, pulley shaped","4
+cyst-","bladder, cyst, sac","4
+phac-, phak-","lentil bean, eye lens","4
+lent-, lenticul-","lentil bean, eye lens","4
+irid-, iris","rainbow","4
+uv-","grape","4
+uvul-","uvula","4
+uve-","uvea","4
+sten-","narrow, contracted","4
+ton-","tone, tension, stretching","4
+cor-, core-","pupil(of the eye)","4
+pupill-","pupil","4
+lacrim0","tears","4
+dacry-","tears","4
+vitr-, vitre-","glass, vitreous humor","4
+hyal-","glass, vitreous humor","4
+aqu-, aque-","water, watery fluid","4
+mei-, mi-","lesser, smaller","4
+myop-","short-sighted, near-sighted","4
+trop-","to turn, turning","4
+graph-","to write/record","4
+metr-","measurement, womb, uterus","4
+scop-","to view, to examine","4
