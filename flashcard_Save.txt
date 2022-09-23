@@ -274,4 +274,3 @@ Scop-","to view, to examine","4
 -Graph-y","process of recording","4
 -Metr-y","process of measuring","4
 -Scop-y","process of examining with an instrument","4
-Test","yes","5
