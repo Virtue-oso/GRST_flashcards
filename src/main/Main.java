@@ -4,6 +4,7 @@ import java.awt.*;
 import java.io.File;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Scanner;
 import java.util.Random;
 import Utilities.*;
@@ -66,23 +67,30 @@ public class Main {
             int limit = flashcardPile.size();
             Random rand = new Random();
             int flashNumber = rand.nextInt(limit);
+            String term = flashcardPile.get(flashNumber).getTerm();
             if(flashcardPile.get(flashNumber).getMemorized()<3) {
-                System.out.println("\n********************************\n your term is: " + flashcardPile.get(flashNumber).getTerm());
+                if(Character.isUpperCase(term.charAt(0))){
+                    term = term.toUpperCase(Locale.ROOT);
+                }
+                System.out.println("\n********************************\n your term is: " + term);
                 System.out.println("press enter to flip flashcard");
                 if (userInput.nextLine() == "") {
-                    System.out.println("the definition for " + flashcardPile.get(flashNumber).getTerm() + " is :\n" +
+                    System.out.println("the definition for " + term + " is :\n" +
                             flashcardPile.get(flashNumber).flip());
-                    System.out.println("Did you get this term right?");
+                    System.out.println("Did you get this term right? enter y for yes or m for memorized");
                     String correctAns = userInput.nextLine();
                     if (correctAns.equals("y")) {
                         flashcardPile.get(flashNumber).rightAnswer();
                         System.out.println("you got this flashcard right, "+flashcardPile.get(flashNumber).getMemorized()
                         +" times! ");
+                        if(flashcardPile.get(flashNumber).getMemorized()==3){
+                            flashcardPile.remove(flashNumber);
+                        }
+                    }
+                    if(correctAns.equals("m")){
+                        flashcardPile.remove(flashNumber);
                     }
                 }
-            }
-            if(flashcardPile.get(flashNumber).getMemorized()==3){
-                flashcardPile.remove(flashNumber);
             }
         }
         System.out.println("Congrats you have successfully gone over all terms consistently!");

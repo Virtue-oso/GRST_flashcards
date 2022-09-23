@@ -58,7 +58,7 @@ dys-","bad, painful, difficult, abnormal","2
 en-","in, inward","2
 epi-","upon, on the surface","2
 eu-","good, well, normal","2
-hyper","over, above, more than normal","2
+hyper-","over, above, more than normal","2
 hypo-","below, deficient, less than normal","2
 peri-","around, near","2
 -al, -eal, -ial","pertaining, to","2
@@ -77,53 +77,53 @@ peri-","around, near","2
 -sia,-sis","process of, condition of, act of","2
 -ure","result of, act of","2
 -y","condition of, quality of, stae of,act of","2
-crani-","cranium (skull (without jawbone))","2
-tempor-","temple (side of head behind above)","2
-occipit-","occiput (back of head)","2
-sphen-","wedge","2
-pter-","wing","2
-pteryg-","wing","2
-ethm-","sieve","2
-zygomat-","yoke","2
-squam-","scale","2
-lambd-","greek letter for lambda","2
-cav-","hollow space","2
-cerebr-","cerebrum (largest part of brain)","2
-cerebell-","cerebellum (posterior brain)","2
-encephal-","brain","2
-lob-","lobe","2
-fiss-","split, splitting","2
-thalam-","chamber, thalamus","2
-mening-","membrane, meninges","2
-arachn-","spider, spider's web","2
-limb-","border, edge","2
-gyr-","circle, coil","2
-sulc-","groove, furrow","2
-cingul-","girdle, belt, structure that surrounds","2
-amygdal-","almond","2
-pituit-","mucus, phlegm, discharge","2
-ment-","mind, reason, chin","2
-psych-","mind","2
-thym-","emotion, mind","2
-phren-","mind, diaphragm","2
-schis-, schist-, schiz-","split, division","2
-man-","frenzy, hand, thin, loose","2
-press-","to press, pressing","2
-phor-","to bear/carry, bearing","2
-phob-","fear","2
-phil-","loving, afinity to, craving for","2
-anxi-","worry","2
-mne-","to remember","2
--mania","condition of madness, compulsion, obsession","2
--mnesia","condition of memory, memory","2
--philia","condition of attraction, attraction, abnormal attraction","2
--phobia","condition of fear, abnormal fear of","2
-andr-","man, male","2
-gync-, gynaec-, gynec-","woman, female","2
-necr-","death, dead","2
-xen-","foreign","2
-pseud-","false","2
-crypt-","hidden","2
+Crani-","cranium (skull (without jawbone))","2
+Tempor-","temple (side of head behind above)","2
+Occipit-","occiput (back of head)","2
+Sphen-","wedge","2
+Pter-","wing","2
+Pteryg-","wing","2
+Ethm-","sieve","2
+Zygomat-","yoke","2
+Squam-","scale","2
+Lambd-","greek letter for lambda","2
+Cav-","hollow space","2
+Cerebr-","cerebrum (largest part of brain)","2
+Cerebell-","cerebellum (posterior brain)","2
+Encephal-","brain","2
+Lob-","lobe","2
+Fiss-","split, splitting","2
+Thalam-","chamber, thalamus","2
+Mening-","membrane, meninges","2
+Arachn-","spider, spider's web","2
+Limb-","border, edge","2
+Gyr-","circle, coil","2
+Sulc-","groove, furrow","2
+Cingul-","girdle, belt, structure that surrounds","2
+Amygdal-","almond","2
+Pituit-","mucus, phlegm, discharge","2
+Ment-","mind, reason, chin","2
+Psych-","mind","2
+Thym-","emotion, mind","2
+Phren-","mind, diaphragm","2
+Schis-, schist-, schiz-","split, division","2
+Man-","frenzy, hand, thin, loose","2
+Press-","to press, pressing","2
+Phor-","to bear/carry, bearing","2
+Phob-","fear","2
+Phil-","loving, afinity to, craving for","2
+Anxi-","worry","2
+Mne-","to remember","2
+-Man-ia","condition of madness, compulsion, obsession","2
+-Mnes-ia","condition of memory, memory","2
+-Phil-ia","condition of attraction, attraction, abnormal attraction","2
+-Phob-ia","condition of fear, abnormal fear of","2
+Andr-","man, male","2
+Gync-, Gynaec-, Gynec-","woman, female","2
+Necr-","death, dead","2
+Xen-","foreign","2
+Pseud-","false","2
+Crypt-","hidden","2
 amphi- ampho-","both, on both sides","3
 an-","without, not, non","3
 dia-","through, apart, in a line","3
@@ -153,54 +153,54 @@ syn-","together, with, concurrent","3
 -ose","full of, having quality of","3
 -ula","small","3
 -um","structure, substance","3
-cut-, cutane-","skin","3
-tect-, teg-","to cover","3
-sarc-","flesh, soft tissue","3
-thel-","nipple, cellular layer, tissue","3
-cyt-","cell","3
-hist-, histi-","tissue","3
-kerat-","horn, horny tissue, cornea(of eye)","3
-melan-","black","3
-coll-","glue","3
-elast-","flecible, stretchy","3
-sud-, sudor-","sweat","3
-fer-","to bear/carry/produce","3
-hidr-","sweat","3
-spir-","to breathe","3
-lip-","fat","3
-adip-","fat","3
-stear-,steat-","fat","3
-trich-","hair","3
-pil-","hair","3
-medull-","innermost part, medulla","3
-cort-,cortic-","outer layer, cortex","3
-foll-","sac, container","3
-seb-","grease, tallow","3
-ungu-","nail","3
-onych-","nail","3
-lun-","moon, moon shaped","3
-chro-, chrom-,chromat-","color","3
-nigr-","black","3
-alb-, albid-","white","3
-leuc-, leuk-","white","3
-can-","white, grey","3
-cand-","white, glowing white","3
-poli-","gray","3
-erythr-","red","3
-rub-,rubr-","red","3
-rose-","rosy-red, pink","3
-rhod-","rosy-red","3
-purpur-","purple","3
-prphyr-","purple","3
-porphyr-","purple","3
-fusc-","brown, dark","3
-cirrh-","yellow, tawny","3
-flav-","golden yellow, reddish yellow","3
-lute-","yellow","3
-xanth-","yellow","3
-chlor-","green","3
-glauc-","bluish-gray, silvery-gray","3
-cyan-","blue","3
+Cut-, cutane-","skin","3
+Tect-, teg-","to cover","3
+Sarc-","flesh, soft tissue","3
+Thel-","nipple, cellular layer, tissue","3
+Cyt-","cell","3
+Hist-, histi-","tissue","3
+Kerat-","horn, horny tissue, cornea(of eye)","3
+Melan-","black","3
+Coll-","glue","3
+Elast-","flecible, stretchy","3
+Sud-, sudor-","sweat","3
+Fer-","to bear/carry/produce","3
+Hidr-","sweat","3
+Spir-","to breathe","3
+Lip-","fat","3
+Adip-","fat","3
+Stear-,steat-","fat","3
+Trich-","hair","3
+Pil-","hair","3
+Medull-","innermost part, medulla","3
+Cort-,cortic-","outer layer, cortex","3
+Foll-","sac, container","3
+Seb-","grease, tallow","3
+Ungu-","nail","3
+Onych-","nail","3
+Lun-","moon, moon shaped","3
+Chro-, Chrom-,Chromat-","color","3
+Nigr-","black","3
+Alb-, albid-","white","3
+Leuc-, leuk-","white","3
+Can-","white, grey","3
+Cand-","white, glowing white","3
+Poli-","gray","3
+Erythr-","red","3
+Rub-,rubr-","red","3
+Rose-","rosy-red, pink","3
+Rhod-","rosy-red","3
+Purpur-","purple","3
+Prphyr-","purple","3
+Porphyr-","purple","3
+Fusc-","brown, dark","3
+Cirrh-","yellow, tawny","3
+Flav-","golden yellow, reddish yellow","3
+Lute-","yellow","3
+Xanth-","yellow","3
+Chlor-","green","3
+Glauc-","bluish-gray, silvery-gray","3
+Cyan-","blue","3
 ante-","before, in front of","4
 cata-, cat-","down, complete","4
 con-","together, with","4
@@ -228,43 +228,50 @@ supra-","above","4
 -meter","instrument used to measure","4
 -scope","instrument used to examine","4
 -ual","pt","4
-phot-","light","4
-scot-","darkness","4
-blep-, bleps-","to see, sight","4
-vid-, vis-","to see, sight","4
-op-,ops-,opt-","eye, sight","4
-ocul-","eye, sight","4
-ophthalm-","eye, sight","4
-orbit-","wheel track, circle, ring, orbit(of the eye)","4
-blephar-","eyelid","4
-palpebr-","eyelid","4
-gen-,genit-","to produce/beget","4
-cili-","eyelid, eyelash, hair-like structures","4
-junct-","to join","4
-conjunctiv-","conjunvtiva (membrane of the eye)","4
-scler-","hard, firm, thick, scler(the white of the eye)","4
-corn-, corne-","horn cornea(of the eye)","4
-chor-, chori-","chorion, choroid, membrane","4
-troch-, trochle-","wheel, round shaped, pulley shaped","4
-cyst-","bladder, cyst, sac","4
-phac-, phak-","lentil bean, eye lens","4
-lent-, lenticul-","lentil bean, eye lens","4
-irid-, iris","rainbow","4
-uv-","grape","4
-uvul-","uvula","4
-uve-","uvea","4
-sten-","narrow, contracted","4
-ton-","tone, tension, stretching","4
-cor-, core-","pupil(of the eye)","4
-pupill-","pupil","4
-lacrim0","tears","4
-dacry-","tears","4
-vitr-, vitre-","glass, vitreous humor","4
-hyal-","glass, vitreous humor","4
-aqu-, aque-","water, watery fluid","4
-mei-, mi-","lesser, smaller","4
-myop-","short-sighted, near-sighted","4
-trop-","to turn, turning","4
-graph-","to write/record","4
-metr-","measurement, womb, uterus","4
-scop-","to view, to examine","4
+Phot-","light","4
+Scot-","darkness","4
+Blep-, Bleps-","to see, sight","4
+Vid-, Vis-","to see, sight","4
+Op-, Ops-, Opt-","eye, sight","4
+Ocul-","eye, sight","4
+Ophthalm-","eye, sight","4
+Orbit-","wheel track, circle, ring, orbit(of the eye)","4
+Blephar-","eyelid","4
+Palpebr-","eyelid","4
+Gen-,genit-","to produce/beget","4
+Cili-","eyelid, eyelash, hair-like structures","4
+Junct-","to join","4
+Conjunctiv-","conjunvtiva (membrane of the eye)","4
+Scler-","hard, firm, thick, scler(the white of the eye)","4
+Corn-, corne-","horn cornea(of the eye)","4
+Chor-, chori-","chorion, choroid, membrane","4
+Troch-, trochle-","wheel, round shaped, pulley shaped","4
+Cyst-","bladder, cyst, sac","4
+Phac-, Phak-","lentil bean, eye lens","4
+Lent-, Lenticul-","lentil bean, eye lens","4
+Irid-, Iris","rainbow","4
+Uv-","grape","4
+Uvul-","uvula","4
+Uve-","uvea","4
+Sten-","narrow, contracted","4
+Ton-","tone, tension, stretching","4
+Cor-, core-","pupil(of the eye)","4
+Pupill-","pupil","4
+Lacrim0","tears","4
+Dacry-","tears","4
+Vitr-, vitre-","glass, vitreous humor","4
+Hyal-","glass, vitreous humor","4
+Aqu-, aque-","water, watery fluid","4
+Mei-, mi-","lesser, smaller","4
+Myop-","short-sighted, near-sighted","4
+Trop-","to turn, turning","4
+-Bleps-ia","condition of sight","4
+-Op-ia","condition of sight","4
+-Ops-ia","condition of sight","4
+Graph-","to write/record","4
+Metr-","measurement, womb, uterus","4
+Scop-","to view, to examine","4
+-Graph-y","process of recording","4
+-Metr-y","process of measuring","4
+-Scop-y","process of examining with an instrument","4
+Test","yes","5
