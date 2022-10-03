@@ -274,3 +274,14 @@ Scop-","to view, to examine","4
 -Graph-y","process of recording","4
 -Metr-y","process of measuring","4
 -Scop-y","process of examining with an instrument","4
+ana-, an-","up, upward, again","5
+dis-, dif-, di-","apart, away from, seperation, lack of","5
+emanti-","opposite","5
+ex-,ef-, e-","out, outside, from","5
+exo-, ex-","outside, outer, external","5
+in-, il-, im-, ir-","not","5
+juxta-","close to","5
+pre-, prae-","infront of, before","5
+pro-","infront of, forward","5
+se-","away, aside","5
+ultra-","beyond","5
