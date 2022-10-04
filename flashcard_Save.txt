@@ -285,3 +285,75 @@ pre-, prae-","infront of, before","5
 pro-","infront of, forward","5
 se-","away, aside","5
 ultra-","beyond","5
+-able, -abil-","able to be","5
+-ac","pt","5
+-ancy, -ancy","state of","5
+-ature","system composed of","5
+-culus","small","5
+-ent","pt","5
+-er","person who (does), thing that does","5
+-fic","causing, making","5
+-ician","specialist","5
+-ics, -tics","art of, science of, study of","5
+-id","pt, having","5
+-ine","pt","5
+-ism","condition of","5
+-ist","person who does, specialist","5
+-ization","process of making","5
+-ory","having the function of","5
+Aud-, audi-, audit-","to hear, hearing","5
+Acou-, acous-","hearing, sound","5
+Son-","sound","5
+Aur-","ear","5
+Auricul-","auricle, outer ear","5
+Ot-","ear","5
+Penn-, pinn-","feather, wing","5
+Pinn-","pinna, auricle","5
+Chondr-","granule, cartialge","5
+Helic-","spiral, helix","5
+Foss-","ditch, trench, to dig, fossa","5
+Scaph-","boat shaped","5
+Tuber-","swelling, nodule","5
+Tubercul-","tubercle, small swelling or nodule","5
+Conch-","sea-shell, sprial shell, concha","5
+Turbin-","cone shaped, sprialed","5
+Mast-","breast","5
+Mastoid-","mastoid process","5
+Ced-, Cess-","to go, to be in motion","5
+Styl-","column, pillar","5
+Styl-, Styloid-","styloid process","5
+Me-","to go, to pass, to travel","5
+Meat-","opening, passageway, meatus","5
+Tympan-","drum, stretched membrane, tympanic membrane/cavity","5
+Myring-","tympanic membrane","5
+Oss-, Osse-","bone","5
+Labyrinth-","inner ear","5
+Vestibul-","vestibule, entrance","5
+Cochle-","snail-shell, spiral shell, cochlea","5
+Canal-","channel","5
+Canalicul-","canaliculus, small channel","5
+Ampull-","flask, bottle, ampula","5
+Alg-","pain","5
+Alges-","pain sensation","5
+Agr-","pain, painful seizure","5
+Odyn-","pain","5
+Dol-, Dolor-","pain","5
+Nos-","disease, sickness","5
+Morb-","disease","5
+Path-","disease, suffering, feeling","5
+Asthe-, Esthe-","to feel, sensation, feeling","5
+Therap-, Therapeut-","to provide treatment, treatment","5
+Iatr-","physician, medical treatment","5
+-Agr-a","pain, painful seizure","5
+-Alges-ia","sensation, of pain","5
+-Alg-ia","painful condition","5
+-Acous-ia","condition of hearing","5
+-Esthes-ia","condition of sensation","5
+-gene-esis","production","5
+-gen-ic","producing, produced","5
+-gen-ous","producing, produced","5
+-Iatr-ics, -Iatr-y","medical treatment","5
+-Nos-ia","disease","5
+-Odyn-ia","painful condition","5
+-Path-ia, -Path-y","disease, treatment of disease","5
+-Therap-ia, -Therap-y","treatment","5
