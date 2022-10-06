@@ -357,3 +357,118 @@ Iatr-","physician, medical treatment","5
 -Odyn-ia","painful condition","5
 -Path-ia, -Path-y","disease, treatment of disease","5
 -Therap-ia, -Therap-y","treatment","5
+mal-","bad, inadequate","6
+-ant","pt","6
+-or","person who does, thing that does","6
+-plasm","formed substance, growth","6
+-tome","instrument used to cut","6
+Olfact-","smell, sense of smell","6
+Osm-","smell, snese of smell","6
+Osphres-, osphresi-","smell, sense of smell","6
+Odor-","odor, smell","6
+Nas-","nose","6
+Rhin-, rrhin-","nose","6
+Nar-","nostril","6
+Al-","wing","6
+Sept-","dividing wall, seven, septum","6
+Muc-","mucus","6
+Mucos-","mucosa, mucous membrane","6
+Blenn-","mucus","6
+Myx-","mucus","6
+Phlegm-","plegm, inflamation ","6
+Sin-","curve, cavity","6
+Sin-, sinus-","sinus","6
+Plas-, plast-","to form, to mold","6
+Cente-","to puncture","6
+Tom-","to cut, to slice, section","6
+Ectom-","to cut out, to cut away","6
+Stom-, Stomat-","mouth, opening","6
+Stom-","stoma","6
+Clei-, Cleist-","to close, closed","6
+Clas-","to break, fragment","6
+De-","to bind","6
+Pex-","to fasten, to fix","6
+Ly-","to loosen, disolving","6
+Cly-","to wash","6
+Trib-, Trips-","to rub, to crush","6
+-Cente-sis","surgical puncturing, puncturing","6
+-Clas-ia, -Clas-is","surgical fracture, breaking, rupture","6
+-Clei-sis","surgical closure, closure","6
+-Cly-sis","theraputic, infuction of liquid, irrigation","6
+-De-sis","surgical fusion, binding","6
+-dia-Ly-sis","surgical dissolving, surgical separation, filtration","6
+-Ectom-y","surgical removal, removal","6
+-Ly-sis","surgical dissolving, surgical separation, filtration","6
+-Pex-is, -Pex-y","surgical fastening, fixing","6
+-Plas-ia, -Plast-y","surgical reshaping, formation","6
+-Stom-y","making a surgical opening, making an opening","6
+-Trips-y","surgical crushing, crushing","6
+-Tom-y","Surgical cutting, cutting","6
+-Osm,ia","condition of sense of smell","6
+Rhaph-, Rrhaph-","to stitch, to suture","6
+Rhe-, Rrh-","to flow","6
+-Rrh-age, -Rrhagia","excessive flow/discharge","6
+-Rrh-aphy","surgical suture","6
+-Rrh-e-a","flow/discharge","6
+-Rrh-exis","rupture","6
+ab-, a-","away from","7
+ad-, ac-, af- etc","towar, near","7
+retro-","behind, backward","7
+-culum","small","7
+-tion","act of, process","7
+-ulum","small","7
+-ulus","small","7
+-uncle","small","7
+Or-, Os-","mouth, opening","7
+Geus-","to taste, sense of taste","7
+Gust-","to taste","7
+Gloss-, glott","tongue, language","7
+Lingu-","tongue, language","7
+Papill-","nipple, papilla","7
+Fren-","bridle, rein, frenum","7
+Carn-, Carn-","flesh, meat","7
+Bucc-","cheek","7
+Labi-, Labr-","lip","7
+Cheil-","lip","7
+Staphyl-","grape, bunch of grapes","7
+Palat-","roof of the mouth, palate","7
+Uran-","roof of the mouth, palate","7
+Gnath-","jaw","7
+Maxill-","upper jaw bone, maxilla","7
+Mandibul-","lower jaw bone, mandible","7
+Condyl-","knuckle, knob, condyle","7
+Ram-","branch, ramus","7
+Gingiv-","gum","7
+Dent-","tooth","7
+Odont-","tooth","7
+Saliv-","spit, saliva","7
+Sial-","spit, saliva, salivary gland","7
+Pty-","spit, saliva","7
+Ptyal-","saliva, salivary gland","7
+-culus, -cula, -culum","small","7
+-ellus, -ella, -ellum","small","7
+-illus, -illa, -illum","small","7
+-ulus, -ula, -ulum","small","7
+-cle","small","7
+-idium","small","7
+-il","small","7
+-ium","small","7
+-ole","small","7
+-ule","small","7
+-unculus","small","7
+Mult-","many, much","7
+Poly-","many, much","7
+Hemi-","half","7
+Semi-","half, partly","7
+Olig-","few, scanty","7
+Plur-","many, more","7
+Pan-, Pant-","all, entire","7
+Macr-","large, long","7
+Magn-","large, great","7
+Micr-","small","7
+Mega-, Megal-","large, great","7
+Pen-","deficiency, decrease","7
+-Geus-ia","condition of sense of taste","7
+-Megal-y","enlargement","7
+-Pen-ia","deficiency","7
+-schesis","fissure","7
