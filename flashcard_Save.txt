@@ -472,3 +472,68 @@ Pen-","deficiency, decrease","7
 -Megal-y","enlargement","7
 -Pen-ia","deficiency","7
 -schesis","fissure","7
+Hol-","whole, entire","7
+Hom-, Home-","smae, smilar","7
+Is-","equal, same","7
+Anis-","unequal, different","7
+All-","other, different","7
+Heter-","other, different","7
+-acious","tending to, inclined to","8
+-ence","state of","8
+-ian","pt","8
+Cervic-","neck","8
+Trachel-","neck","8
+Coll-","neck","8
+Cleid-","key, hook, collar-bone","8
+Clav-, Clavicul-","key, clavicle, collar-bone","8
+Jugul-","neck, throat","8
+Guttur-","throat","8
+Pharyng-","throat, pharynx","8
+Tonsill-","tonsil","8
+Aden-","gland","8
+Laryng-","voice-box, larynx","8
+Glott-","tongue, language, glottis, mouth of the windpipe","8
+Thyr-, Thyroid-","oblong shield, thyroid cartilage","8
+Hy-","greek letter upsilon, hyoid bone","8
+Phas-","speech, to talk","8
+Phras-","speech, to talk","8
+Phem-","speech, to talk","8
+Lal-","speech, to talk","8
+Loqu-","speech, to talk","8
+Voc-","speech, voice, to talk","8
+Phon-","speech, voice, sound","8
+Log-","speech, word","8
+Brady-","slow","8
+Tachy-","fast","8
+Copr-","dung, filth, feces","8
+Cac-","bad","8
+Ech-","returned sound, repetition","8
+Mon-","one, single","8
+Un-","one, single","8
+Hapl-","single","8
+Prot-","first, original, primitive","8
+Prim-","first","8
+-gravida","woman who is, or has been pregnant","8
+-para","woman who has given birth","8
+Di-, Dich-","two, twice, in two","8
+Bi-, Bin-","two, twice, double, life, living, double, pair","8
+Tetr-","four","8
+Quadr-","four","8
+Quart-, Quatern-","fourth, four each","8
+Pent-","five","8
+Quinque-","five","8
+Quint-, Quin-","fifth, five each","8
+Hex-","six","8
+Sex-","six","8
+Sext-","sixth","8
+Hept-","seven","8
+Sept-","dividing wall, seven","8
+Septim-","seventh","8
+Oct-","eight","8
+Octav-","eighth","8
+Enne-","nine","8
+Novem-","nine","8
+Non-","ninth","8
+Dec-","ten","8
+Decem-","ten","8
+Dec-, Decim-","tenth","8
