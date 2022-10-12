@@ -537,3 +537,17 @@ Non-","ninth","8
 Dec-","ten","8
 Decem-","ten","8
 Dec-, Decim-","tenth","8
+-ated","composed of, having","9
+Scapul-","shoulder blad, scapula","9
+Brachi-","arm","9
+Mel-","limb","9
+Humer-","upper arm bone, humerus","9
+Uln-","ulna","9
+Radi-","ray, spoke of a wheel, radius","9
+Cub-, Cubit-, Cumb-","to lie down","9
+Cubit-","elbow, forearm","9
+Ancon-","elbow","9
+Glen-","socket of a joint","9
+Glen-","glenoid","9
+Corac-","crow's beak, coracoid process","9
+Acromi-","acromion","9
