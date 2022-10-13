@@ -585,3 +585,20 @@ Lep-, Leps-","taking hold, to seize","9
 Malac-","soft","9
 Phthi-, Phthis-","to waste away, to decay","9
 Pleg-, Plex-, Plec-","blow, stroke, seizure","9
+Pto-","falling","9
+Sta-, Stas-","to stand, standing","9
+Sthen-","strength","9
+-a-Sthen-ia","condition of non strength, weakness","9
+-ect-a-sia, -ect-a-sis","expansion, widening, dilation","9
+-ect-opia, -ect-o-py","displacement","9
+-eme-sia, -eme-sis","conditon of vomiting","9
+-emphraxis","obstruction","9
+-lep-sis, -lep-sy","seizure","9
+-mala-cia","softening","9
+-(o)edema","swelling","9
+-Phthi-sis","wasting","9
+-Pleg-ia","paralysis","9
+-Plex-ia, plex-y","seizure","9
+-Pto-sia, -Pto-sis","drooping, prolapse","9
+-Stas-ia, -Stasis, -Stas-y","stoppage, stagnation","9
+-Sten-osis","narrowing, contraction","9
