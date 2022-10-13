@@ -551,3 +551,37 @@ Glen-","socket of a joint","9
 Glen-","glenoid","9
 Corac-","crow's beak, coracoid process","9
 Acromi-","acromion","9
+Capit-, Cipit-","head","9
+Delt-","delta","9
+Trapez-","table","9
+Trapezi-","trapezium","9
+Ost-, Oste-","bone","9
+Tend-, Tens-, Tent-","to stretch","9
+Ten-, Tend-, Tendin-, Tendon-, Tenon-, Tenont-","tendon","9
+Lig-","to bind, to tie","9
+Ligament-","ligament","9
+Desm-","band, ligament","9
+Syndesm-","ligament","9
+Fasci-","band, facia","9
+My-, Mys-, Myos-","muscle","9
+Muscul-","muscle","9
+Flect-, Flex-","to bend","9
+Agon-","Struggle, contest, action","9
+Duc-, Duct-","to lead, to draw","9
+Lamin-","thin plate, lamina","9
+Lamell-","thin plate, lamella","9
+Arthr-","joint, speech","9
+Articul-","joint, speech sound","9
+Crist-","crest","9
+Phy-, Phys-","to grow, growth, nature, breath, inflation, swollen","9
+Spin-","thorn, spine","9
+Top-","place, position","9
+Ta-, Tas-","to stretch, tension","9
+Ede-, Oede-","to swell","9
+Eme-","to vomit","9
+Phrag-","to block, to obstruct","9
+Diaphragm-","diaphragm","9
+Lep-, Leps-","taking hold, to seize","9
+Malac-","soft","9
+Phthi-, Phthis-","to waste away, to decay","9
+Pleg-, Plex-, Plec-","blow, stroke, seizure","9
