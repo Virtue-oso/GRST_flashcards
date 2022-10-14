@@ -85,10 +85,14 @@ public class Main {
                         +" times! ");
                         if(flashcardPile.get(flashNumber).getMemorized()==3){
                             flashcardPile.remove(flashNumber);
+                            System.out.println( term +" memorized and removed from the list "+ flashcardPile.size() +
+                                    " words left");
                         }
                     }
                     if(correctAns.equals("m")){
                         flashcardPile.remove(flashNumber);
+                        System.out.println(term +" memorized and removed from the list "+ flashcardPile.size() +
+                                " words left");
                     }
                 }
             }
