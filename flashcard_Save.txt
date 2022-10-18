@@ -287,7 +287,7 @@ se-","away, aside","5
 ultra-","beyond","5
 -able, -abil-","able to be","5
 -ac","pt","5
--ancy, -ancy","state of","5
+-ance, -ancy","state of","5
 -ature","system composed of","5
 -culus","small","5
 -ent","pt","5
@@ -394,7 +394,7 @@ Trib-, Trips-","to rub, to crush","6
 -Cente-sis","surgical puncturing, puncturing","6
 -Clas-ia, -Clas-is","surgical fracture, breaking, rupture","6
 -Clei-sis","surgical closure, closure","6
--Cly-sis","theraputic, infuction of liquid, irrigation","6
+-Cly-sis","theraputic infusion of liquid, irrigation","6
 -De-sis","surgical fusion, binding","6
 -dia-Ly-sis","surgical dissolving, surgical separation, filtration","6
 -Ectom-y","surgical removal, removal","6
@@ -426,7 +426,7 @@ Gloss-, glott","tongue, language","7
 Lingu-","tongue, language","7
 Papill-","nipple, papilla","7
 Fren-","bridle, rein, frenum","7
-Carn-, Carn-","flesh, meat","7
+Car-, Carn-","flesh, meat","7
 Bucc-","cheek","7
 Labi-, Labr-","lip","7
 Cheil-","lip","7
@@ -602,3 +602,43 @@ Sthen-","strength","9
 -Pto-sia, -Pto-sis","drooping, prolapse","9
 -Stas-ia, -Stasis, -Stas-y","stoppage, stagnation","9
 -Sten-osis","narrowing, contraction","9
+-ator","person/thing that does","10
+-ious","pertaining to","10
+Cheir-, Chir-","hand","10
+Man-","frenzy","10
+Palm-","palm of the hand","10
+Carp-","wrist","10
+Dactyl-","finger, toe","10
+Digit-","finger, toe, digit","10
+Phalang-","phalanx, finger/toe bone","10
+Pollic-","thumb,pollex","10
+Acr-","highest point, extreme extermity","10
+Pron-","face downward, bending forward","10
+Supin-","face upward, bending backward","10
+Thigm-, Thix-","to touch touching","10
+Haph-, Hapt-","to touch touching","10
+Tact-, Tag-, Tang-","to touch, touching, order, arrangement","10
+Dolich-","long","10
+Long-","long","10
+Brachy-","short","10
+Brev-","short","10
+Eury-","wide","10
+Platy-","flat,broad","10
+Pachy-","thick","10
+Pycn-, Pykn-","thick, dense","10
+Grav-","heavy","10
+Gravid-","pregnant, pregnancy","10
+Bar-, Bary-","weight, pressure, heavy","10
+Lept-","thin slender","10
+Lei-","smooth","10
+Moll-","soft","10
+Dur-","hard, dura mater","10
+Orth-","straight, correct","10
+Ankyl-","bent, stiff, fixed","10
+Kyph-","bent, humpedback","10
+Lord-","bent backward","10
+Scoli-","curved bent","10
+Cyrt-, Kyrt-","curved, bent","10
+Camp-, Campt-, Campyl-","to bend, bent,curved","10
+-dactyl-ia, -dactyl-y","condition of finger or toes","10
+-syn-Dactyl-ia, -syn-Dactyl-y","condition of fused fingers or toes","10

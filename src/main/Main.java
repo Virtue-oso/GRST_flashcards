@@ -28,18 +28,69 @@ public class Main {
         if(input.equals("1")) {
             System.out.println("Please enter which module this term is from");
             Integer module = userInput.nextInt();
+            System.out.println("what type of term is this?\n 1: prefix\n 2: base\n 3: suffix");
+            Integer type = userInput.nextInt();
             System.out.println("Please enter term (press enter start studying): ");
             userInput.nextLine();
             String term = userInput.nextLine();
             while (term != "") {
+                int termCount = 1;
+                for(int i = 0; i <term.length(); i++){
+                    if(term.charAt(i) == ','){
+                        termCount++;
+                    }
+                }
+                String[] terms;
+                if (termCount>1){
+                    terms = term.split(",");
+                }
+                else {
+                    terms = new String[1];
+                    terms[0]=term;
+                }
+                if(term.equals("n")){
+                    System.out.println("what type of term is this?\n 1: prefix\n 2: base\n 3: suffix");
+                    type = userInput.nextInt();
+                }
+                String formatedTerm="";
+                if(type ==1){
+                    for (String word: terms) {
+                        word = word+"-";
+                        formatedTerm +=word;
+                        if(!word.equals(terms[termCount-1]+"-")){
+                            formatedTerm+=", ";
+                        }
+                    }
+                }
+                if(type ==2){
+                    for (String word: terms) {
+                        word = word.substring(0,1).toUpperCase() + word.substring(1)+"-";
+                        formatedTerm +=word;
+                        if(!word.toLowerCase(Locale.ROOT).equals(terms[termCount-1]+"-")){
+                            formatedTerm+=", ";
+                        }
+                    }
+                }
+                if(type == 3){
+                    for (String word: terms) {
+                        word = "-"+word;
+                        formatedTerm +=word;
+                        if(!word.equals("-"+terms[termCount-1])){
+                            formatedTerm+=", ";
+                        }
+                    }
+                }
                 System.out.println("Please enter the definition for " + term);
                 String definition = userInput.nextLine();
-                flashcardPile.add(new FlashCards(term, definition, module));
                 if(flashPiles.size()<module){
                     flashPiles.add(new ArrayList<FlashCards>());
                 }
-                flashPiles.get(module-1).add(new FlashCards(term,definition,module));
-                System.out.println("Please enter term (press enter to start studying): ");
+                if(!term.equals("n")) {
+                    flashcardPile.add(new FlashCards(formatedTerm, definition, module));
+                    flashPiles.get(module - 1).add(new FlashCards(formatedTerm, definition, module));
+                }
+                System.out.println("Please enter term enter \"n\" to go enter new term type" +
+                        "(press enter to start studying): ");
                 term = userInput.nextLine();
             }
             outputWriter.outputFunction(flashcardPile);
