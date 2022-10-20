@@ -642,3 +642,53 @@ Cyrt-, Kyrt-","curved, bent","10
 Camp-, Campt-, Campyl-","to bend, bent,curved","10
 -dactyl-ia, -dactyl-y","condition of finger or toes","10
 -syn-Dactyl-ia, -syn-Dactyl-y","condition of fused fingers or toes","10
+-fication","procces of producing, process of becoming, process of making","11
+-fy","to produce, to become, to make","11
+Rachi-, Rachid-, Rrhach-","spine, backbone","11
+Vertebr-","spine, vertebra","11
+Spondyl-","segment of the spine, vertebra","11
+Myel-","bone marro, spinal cord","11
+Myelin-","myelin, myelin sheath","11
+Thorac-","chest, thorax","11
+Ax-","axis, central line, axon","11
+Steth-","chest","11
+Pector-","chest","11
+Maz-","breast","11
+Mamm-","breast","11
+Mammill-","nipple","11
+Cost-","rib","11
+Stern-","bresat bone, sternum","11
+Xiph-, Xiphoid-","sword, xiphoid process","11
+Lumb-","loin","11
+Sacr-","sacred, holy, sacrum","11
+Coccy-, Coccyg-","cuckoo, coccyx, tail bone","11
+For-","to bore, to pierce","11
+Foramin-","foramen, opening","11
+Arc-","arch, bow","11
+Emin-","standing, projecting","11
+Promin-","standing out, prominent","11
+Apic-","tip, summit, apex","11
+Por-","passage, cavity, pore","11
+Neur-","nerve, nervous system, tendon","11
+Nerv-","nerve","11
+Sens-, Sent-","to feel, to perceive, sense","11
+Mot-","to move, movement","11
+Rhiz-, Rrhiz-","root","11
+Radic-","root","11
+Radicul-","spinal nerve root, radicle","11
+Aut-","self","11
+Nom-","law, custom","11
+Gli-","glue, glia, neroglia","11
+Lemm-","cover, sheath","11
+Gangli-, Ganglion-","swelling, knot, ganglion","11
+Thec-","cover, sheath","11
+Fibr-","fiber, filament","11
+Fibrin-","fibrin","11
+In-","fiber","11
+Burs-","sac, pouch, bursa","11
+Pont-","bridge, pons","11
+Kine-, Kines-, Kinet-","to move, movement","11
+Clon-","violent motion, spasm","11
+Troph-","nourishment, nutrition","11
+-a-Troph-ia, -a-Troph-y","wasting","11
+-dys-Troph-ia, -dys-Troph-y","weakness","11
