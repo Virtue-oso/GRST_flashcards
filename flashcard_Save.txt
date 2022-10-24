@@ -692,3 +692,102 @@ Clon-","violent motion, spasm","11
 Troph-","nourishment, nutrition","11
 -a-Troph-ia, -a-Troph-y","wasting","11
 -dys-Troph-ia, -dys-Troph-y","weakness","11
+-ase","enzyme","12
+-ol","alcohol","12
+-one","ketone","12
+-ose","sugar","12
+-ulent","full of","12
+Hal-, Halit-","to breate, breath, salt","12
+Ventil-","to fan, to set air in motion","12
+Pne-","to breathe, breath","12
+Trach-","rough","12
+Trache-","windpipe, trachea","12
+Bronch-","bronchus, airway","12
+Bronchiol-","bronchiole","12
+Alveol-","hollow, cavity, soket, alveolus","12
+Aer-","air, gas","12
+Pneum-, Pneumat-, Pneumon-","air, gas, lung","12
+Pulm-, Pulmon-","long","12
+Pleur-","rib, side, pleura","12
+Tel-, Tele-","completion, end","12
+Bol-","to throw, to put","12
+Ox-, Oxy-","acute, sharp, pointed, acid-tasting, oxygen","12
+Capn-","smoke, carbon dioxide","12
+Coni-","dust","12
+Silic-","quartz, silica","12
+Calc-","limestone, calcium, pebble","12
+Anthrac-","coal, charcoal, carbuncle","12
+Carb-","coal, carbon","12
+Tuss-","cough","12
+Py-, Pur-","pus","12
+-pnea","breathing, respiration","12
+Acet-","sour, vinegar, acetic acid","12
+Acid-","sour, acid","12
+Hydr-","water, watery fluid","12
+Kal-","potassium","12
+Natr-","sodium","12
+Gluc-, Glyc-","sweet, sugar","12
+Sacchar-","sweet sugar","12
+Amyl-","starch","12
+Sider-","iron","12
+Ferr-","iron","12
+Thi-","sulfur","12
+Argyr-","silver","12
+Argent-","silver","12
+Chrys-","gold","12
+Aur-","gold","12
+Galact-","milk","12
+Lact-","milk","12
+-ative","pt, tending to","13
+Card-, Cardi-","heart, cardia (upper part of the stomach)","13
+CORD-, ","heard, cord","13
+Atri-","chamber, entrance hall, atrium","13
+Ventricul-","ventricle","13
+Valv-, Valvul-","valve","13
+Cusp-","point, tip, cusp","13
+Aort-","artery, aorta","13
+Vas-","vessel, vas","13
+Vascul-","vessel","13
+Angi-","vessel","13
+Arter-, Arteri-","artery","13
+Aneurysm-","dilation, dilation of an artery, aneurysm","13
+Ven-","vein","13
+Phleb-","vein","13
+Capill-","hair, hair-like structure","13
+Capillar-","capillary","13
+Fenestr-","window, opening, fenestra","13
+Lax-","slack, loose","13
+Tract-","to pull, to draw together","13
+Stol-, Stal-","to send, to compress","13
+Rhythm-, Rrhythm-","recurring, motion, rhythm","13
+Poie-","to make, to form","13
+Hem-, Haem-, Hemat-, Haemat-","blood","13
+Agog-","bring forth, stimulating","13
+Sangui-, Sanguin-","blood","13
+Plasm-, Plasmat-","formed substance, plasma","13
+Ser-","watery substance, srum","13
+Drepan-","sickle","13
+Thromb-","clot","13
+Kary-","nucleus","13
+Blast-","immature cell","13
+Embol-","insertion, stopper, plug, embolus","13
+Phag-","to eat, to ingest","13
+Sphygm-, Sphyx-","pulse","13
+Lymph-","spring water, watery substance, lymph","13
+Splen-","spleen","13
+Lien-","spleen","13
+-(h)aem-ia, -(h)em-ia","condition of blood","13
+-agog-ue","stimulating, promoting flow of","13
+-blast","immature cell","13
+-haemia, -hemia","condition of the blood","13
+-phag-ia, -phag-y","condition of eating","13
+-phag-e","thing that devours","13
+-poie-sis","making, formation","13
+Nasc-, Nat-","being born, birth","13
+Paed-, Ped-","child, foot","13
+Puber-, Pubert-","coming to maturity","13
+Ger-, Geront-","old age","13
+Sen-","old age","13
+Presby-","old age","13
+Thanat-","death","13
+Mort-","death,dead","13
