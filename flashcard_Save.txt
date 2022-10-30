@@ -647,7 +647,7 @@ Camp-, Campt-, Campyl-","to bend, bent,curved","10
 Rachi-, Rachid-, Rrhach-","spine, backbone","11
 Vertebr-","spine, vertebra","11
 Spondyl-","segment of the spine, vertebra","11
-Myel-","bone marro, spinal cord","11
+Myel-","bone marrow, spinal cord","11
 Myelin-","myelin, myelin sheath","11
 Thorac-","chest, thorax","11
 Ax-","axis, central line, axon","11
@@ -740,7 +740,7 @@ Galact-","milk","12
 Lact-","milk","12
 -ative","pt, tending to","13
 Card-, Cardi-","heart, cardia (upper part of the stomach)","13
-CORD-, ","heard, cord","13
+CORD-, ","heart, cord","13
 Atri-","chamber, entrance hall, atrium","13
 Ventricul-","ventricle","13
 Valv-, Valvul-","valve","13
@@ -765,7 +765,7 @@ Hem-, Haem-, Hemat-, Haemat-","blood","13
 Agog-","bring forth, stimulating","13
 Sangui-, Sanguin-","blood","13
 Plasm-, Plasmat-","formed substance, plasma","13
-Ser-","watery substance, srum","13
+Ser-","watery substance, serum","13
 Drepan-","sickle","13
 Thromb-","clot","13
 Kary-","nucleus","13
@@ -791,3 +791,43 @@ Sen-","old age","13
 Presby-","old age","13
 Thanat-","death","13
 Mort-","death,dead","13
+Hepat-","liver","14
+Ger-, Gest-","to carry, to produce","14
+Digest-","to breack apart, to dissolve","14
+Bil-","bile","14
+Icter-","jaundice, icterus","14
+Chol-","bile, gall","14
+Cholangi-","bile duct","14
+Cholecyst-","gallbladder","14
+Lith-","stone, calculus","14
+Doch-","receptacle, duct","14
+Choledoch-","bile duct","14
+Pancre-, Pancreat-","pancreas","14
+Crin-","to secrete","14
+Zym-","fermentation","14
+Enzym-","enzyme","14
+Tox-, Toxic-","poison","14
+Venen-","poison","14
+Vir-, Virul-","virus, poison, poisonous","14
+Botul-","sausage, sausage poisoning, botuilism","14
+Allant-","sausage, sausage poisoning","14
+Verm-","worm","14
+Helminth-","worm","14
+Acar-","mite, tick","14
+Bacteri-","staff, cane, rod, bacterium","14
+Bacill-","rod, stick, rod-shaped bacterium, bacillus","14
+Rhabd-","rod, stick","14
+Cocc-","seed, berry, berry shaped, coccus (a berry-shaped bacterium, plural cocci)","14
+Strep-, Strept-","curved, twisted, linked, streptococcus","14
+Phyt-","plant","14
+Fung-","mushroom, fungus","14
+Myc-, Mycet-","fungus","14
+Spor-","seed, spore","14
+Sep-","to rot, to putrefy","14
+Cid-, Cis-","to cut, to kill","14
+Fug-","to flee from, to put to flight","14
+-Cid-e","to kill, substance that kills","14
+-Crin-e","thing that secretes","14
+-Fug-e","substance that expels, substance that drives away","14
+-Phyt-e","plant, growth","14
+-stat","agent that inhibits, agent that retards","14
