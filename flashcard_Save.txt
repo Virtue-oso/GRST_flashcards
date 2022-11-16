@@ -704,7 +704,7 @@ Trach-","rough","12
 Trache-","windpipe, trachea","12
 Bronch-","bronchus, airway","12
 Bronchiol-","bronchiole","12
-Alveol-","hollow, cavity, soket, alveolus","12
+Alveol-","hollow, cavity, socket, alveolus","12
 Aer-","air, gas","12
 Pneum-, Pneumat-, Pneumon-","air, gas, lung","12
 Pulm-, Pulmon-","long","12
@@ -831,3 +831,76 @@ Fug-","to flee from, to put to flight","14
 -Fug-e","substance that expels, substance that drives away","14
 -Phyt-e","plant, growth","14
 -stat","agent that inhibits, agent that retards","14
+Esophag-, Oesophag-","gullet, esophagus","15
+Gastr-","stomach","15
+Abdomin-","abdomen, belly","15
+Cel-, Celi-, Coel-, Coeli-","abdomen, belly, abdominal cavity","15
+Cele-","hernia, protrusion, swelling","15
+Umbilic-","navel, belly-button, umbilicus","15
+Lapar-","abdomen, loin","15
+Port-","gate, point of entry, portal vein","15
+Pyl-","gate, portal vein","15
+Pylor-","gatekeeper, pylorus","15
+Sphincter-","band, sphincter, sphincter muscle","15
+Fund-","fundus","15
+Rug-","wrinkle, fold","15
+Chy-","to pour","15
+Chyl-,  Chym-, ","juice, fluid, chyle, chyme","15
+Viscer-","internal organ, viscera","15
+Splanchn-","internal organ, viscera","15
+Peps-, Pept-","digestion","15
+Aliment-","food, nourishment, nutrition","15
+Nutri-, Nutrit-","to nourish, nourishment","15
+Sit-","food, grain","15
+Cib-","food, meal","15
+Orect-, Orex-","appetite","15
+Lim-","hunger","15
+Dips-","thirst, drinking","15
+Pyr-","fire, burning","15
+Gurgit-","to flood, to gorge","15
+Pyret-, Pyrex-","fever","15
+Febr-","fever","15
+Fac-","to make, to cause","15
+Phlog-, Plogist-","inflamed, inflammation","15
+Therm-","heat","15
+Cal-, Calor-","heat","15
+Caum-, Caus-, Caust-","heat, burning","15
+Cauter-","cautery","15
+Cry-, Crym-","icy cold","15
+Psychr-","cold","15
+-Cel-e","hemia, protrusion, swelling","15
+-Coel, - Coel-e","cavity","15
+-Fac-i-ent","making, causing","15
+-Fer-ous","bearing, carrying, producing","15
+Enter-","intestine","16
+Intestin-","intestine","16
+Periton-, Peritone-","peritoneum","16
+Oment-","membrane, omentum","16
+Epiplo-","epiploon, omentum","16
+Mesenter-","mesenter","16
+Mesentery-","membranous fold","16
+Duoden-","duodenum","16
+Jejun-","jejunum","16
+Ile-","ileum","16
+Plic-","to fold, to pleat","16
+Vill-","tuft of hair, villus","16
+Caec-, Cec-","blind, cecum","16
+Typhl-","blind, cecum","16
+Pend-","to hang, to weigh","16
+Append-","to hang upon","16
+Append-, Appendic-","appendix","16
+Col-, Colon-","colon, large intestine","16
+Diverticul-","diverticulum","16
+Rect-","straight, straighten, rectum","16
+Proct-","rectum, anus","16
+An-","anus","16
+Faec-, Fec-","feces, dung","16
+Faecal-, Fecal-","feces","16
+Sterc-, Stercor-","feces","16
+Scat-","filth, feces","16
+Rhyp-, Rhypar-","filth, feces","16
+Chez-","the passing of feces","16
+Rhyti-, Rhytid-","wrinkle","16
+Phark-, Pharkid-","wrinkle","16
+Stri-","groove, stripe","16
+Plex-","interwoven, plaited, complicated, plexus","16
