@@ -868,7 +868,7 @@ Caum-, Caus-, Caust-","heat, burning","15
 Cauter-","cautery","15
 Cry-, Crym-","icy cold","15
 Psychr-","cold","15
--Cel-e","hemia, protrusion, swelling","15
+-Cele","hemia, protrusion, swelling","15
 -Coel, - Coel-e","cavity","15
 -Fac-i-ent","making, causing","15
 -Fer-ous","bearing, carrying, producing","15
@@ -904,3 +904,21 @@ Rhyti-, Rhytid-","wrinkle","16
 Phark-, Pharkid-","wrinkle","16
 Stri-","groove, stripe","16
 Plex-","interwoven, plaited, complicated, plexus","16
+Nephr-","kidney","17
+Ren-","kidney","17
+Ur-, Urin-","urine","17
+Ure-","urine, urea","17
+Cali-, Calic-","cup-shaped structure, calix","17
+Pyel-","renal pelvis, pelvis","17
+Glob-, Glom-, Glomer-","ball, ball-shaped","17
+Glomerul-","glomerulus","17
+Ureter-","ureter","17
+Vesicul-","vesicle, small blader","17
+Urethr-","urethra","17
+Adren-, Adrenal-","adrenal gland","17
+Hypophys-","pituitary gland","17
+Pine-","pine-cone","17
+Pineal-","pineal gland","17
+Hormon-","hormone","17
+-Ur-ia","condition of urine","17
+-Ure-tic","pertaining to urine","17
