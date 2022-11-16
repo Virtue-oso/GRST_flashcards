@@ -922,3 +922,49 @@ Pineal-","pineal gland","17
 Hormon-","hormone","17
 -Ur-ia","condition of urine","17
 -Ure-tic","pertaining to urine","17
+Uter-","uterus, womb","18
+Hyster-","uterus, womb","18
+Metr-","measurement, uterus, womb","18
+Delph-","uterus, womb","18
+Gonad-","gonad","18
+Gon-","seed","18
+Ov-","egg, ovum","18
+Voul-","ovule","18
+Ovar-, Ovari-","ovary","18
+Oviduct-","oviduct","18
+Oo-","egg, ovum","18
+Oophor-","ovary","18
+Tub-","tube, uterine tube","18
+Salping-","tube, uterine tube, auditory tube","18
+Vagin-","vagina","18
+Colp-","vagina","18
+Clitor-, Clitorid-","clitoris","18
+Vulv-","vulva","18
+Episi-","vulva","18
+Perine-","perineum","18
+Men-","month, menses","18
+Menstru-","menses","18
+Isch-","to suppress","18
+Capt-, -Cept-","to take to recieve","18
+Embry-, Embryon-","embryo","18
+Fet-, Foet-","offspring, fetus","18
+Amni-, Amnion-","amnion","18
+Prol-","offspring","18
+Partur-","to give birth, childbirth","18
+Par-","to give birth","18
+Cye-","pregnancy","18
+Toc-, Tok-","childbirth","18
+Placent-","placenta","18
+Lochi-","related to childbirth, lochia","18
+Obstetr-","obstetrix, midwife, pregnancy and child birth","18
+Matern-, Matr-","mother","18
+Patern-, Patr-","father","18
+Fratern-, Fratr-","brother","18
+Soror-","sister","18
+Tre-, Tres-","opening","18
+Atret-","without an opening","18
+Ne-","new, recent","18
+Arch-, Archae-, Arche-","ancient, primitive, beginning","18
+Palae-, Pale-","old, primitive","18
+Chron-","time","18
+-Arch-e","beginning, onset","18
