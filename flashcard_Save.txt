@@ -968,3 +968,35 @@ Arch-, Archae-, Arche-","ancient, primitive, beginning","18
 Palae-, Pale-","old, primitive","18
 Chron-","time","18
 -Arch-e","beginning, onset","18
+Test-","testis","19
+Testicul-","testicle, testis","19
+Orch-, Orchi-, Orchid-","testis","19
+Didym-","twin, testis","19
+Epididym-","epididymis","19
+Scrot-","scrotum","19
+Osche-","scrotum","19
+Semin-","seed, semen, seminal fluid","19
+Sperm-","seed, semen, sperm","19
+Zo-","animal, living thing","19
+Spermat-","spermatozoon, semen, sperm","19
+Pen-","penis","19
+Phall-","penis","19
+Balan-","acorn, glans penis","19
+Preputi-","prepus, foreskin","19
+Prostat-","prostate gland","19
+Coit-","sexual intercourse","19
+Venere-","sexual intercourse, sexually transmitted","19
+Pareun-","sexual intercourse","19
+Carcin-","crab, cancer, malignant tumor","19
+Cancer-, Cancr-","cancer, malignant tumor","19
+Onc-","mass, tumor","19
+Pharmac-","drug","19
+Chem-","chemical","19
+Terat-","monster, teras, malformed","19
+-Blast-oma","malignant tumor","19
+-Carcin-oma","malignant tumor","19
+-Didym-us","twin, conjoined twins","19
+-Onc-us","tumor, swelling","19
+-Pag-us","conjoined twins","19
+-Sarc-oma","malignant tumor","19
+-Zo-on","animal, living thing","19

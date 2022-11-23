@@ -125,7 +125,8 @@ public class Main {
                 }
                 System.out.println("\n********************************\n your term is: " + term);
                 System.out.println("press enter to flip flashcard");
-                if (userInput.nextLine() == "") {
+                if (userInput.nextLine()
+                        == "") {
                     System.out.println("the definition for " + term + " is :\n" +
                             flashcardPile.get(flashNumber).flip());
                     System.out.println("Did you get this term right? enter y for yes or m for memorized");
