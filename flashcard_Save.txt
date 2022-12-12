@@ -412,7 +412,7 @@ Rhe-, Rrh-","to flow","6
 -Rrh-e-a","flow/discharge","6
 -Rrh-exis","rupture","6
 ab-, a-","away from","7
-ad-, ac-, af- etc","towar, near","7
+ad-, ac-, af- etc","towards, near","7
 retro-","behind, backward","7
 -culum","small","7
 -tion","act of, process","7
@@ -837,6 +837,7 @@ Abdomin-","abdomen, belly","15
 Cel-, Celi-, Coel-, Coeli-","abdomen, belly, abdominal cavity","15
 Cele-","hernia, protrusion, swelling","15
 Umbilic-","navel, belly-button, umbilicus","15
+Omphal-","navel, belly-button, umbilicus","15
 Lapar-","abdomen, loin","15
 Port-","gate, point of entry, portal vein","15
 Pyl-","gate, portal vein","15
@@ -1000,4 +1001,51 @@ Terat-","monster, teras, malformed","19
 -Pag-us","conjoined twins","19
 -Sarc-oma","malignant tumor","19
 -Zo-on","animal, living thing","19
-One-","1","1
+Ili-","upper hip bone, ilium","20
+Ischi-","lower hip bone, ischium","20
+Pub-","pubic, pubic bone/hair","20
+Cox-","hip bone, hip joint, coxa","20
+Acetabul-","hip bone socket, acetabulum","20
+Inguin-","groin","20
+Glute-","buttocks","20
+Pyg-","buttocks","20
+Femor-","thigh, femur","20
+Trochanter-","trochanter","20
+Crur-","thigh, leg, crus","20
+Scel-, Skel-","leg","20
+Gon-","knee","20
+Gen-","knee","20
+Genicul-","geniculum","20
+Poplit-","back of the knee","20
+Patell-","kneecap, patella","20
+Menisc-","crescent shaped, menisucus","20
+Tibi-","shin bone, tibia","20
+Fibul-","fibula","20
+Cnem-, Knem-","leg, lower leg","20
+Hypn-","sleep","20
+Hypn-, Hypnot-","hypnosis","20
+Somn-","sleep","20
+Narc-","numbness, stupor","20
+Oneir-","dream","20
+Nyct-","night","20
+Tars-","ankle, edge of the eyelid, tarsus","21
+Tal-","ankle, heel, talus","21
+Astragal-","astragalus, talus","21
+Calcane-","heel, calcaneus","21
+Navicul-","boat","21
+Cub-","cube","21
+Cune-","wedge","21
+Pod-, Pus-","foot","21
+Paed-, Ped-","child, foot","21
+Plant-","sole of the foot","21
+Halluc-","big toe, hallux","21
+Prur-, Prurit-","itching","21
+Psor-","itching, itchy patches, scaly patches","21
+Scab-, Scabr-","itching, scabies, itchy patches, scaly patches, rough patches","21
+Cicatr-, Cicatric-","scar, cicatrix","21
+Ul-","scar","21
+Macul-","spot, macula","21
+Naev-, Nev-","mole, birthmark, nevus","21
+Papul-","papule, pimple","21
+Pustul-","pustule, pimple","21
+Traum-, Traumat-","wound, injury, trauma","21
