@@ -1049,3 +1049,4 @@ Naev-, Nev-","mole, birthmark, nevus","21
 Papul-","papule, pimple","21
 Pustul-","pustule, pimple","21
 Traum-, Traumat-","wound, injury, trauma","21
+new
